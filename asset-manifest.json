@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-task/static/css/main.da26ed8c.css",
+    "main.js": "/react-task/static/js/main.3c714d1a.js",
+    "static/js/453.e52305e5.chunk.js": "/react-task/static/js/453.e52305e5.chunk.js",
+    "static/media/cal-bg.webp": "/react-task/static/media/cal-bg.9f55b59cb33d5d71c8c9.webp",
+    "static/media/slides.webp": "/react-task/static/media/slides.3a0c00f26bd6f022c2c6.webp",
+    "static/media/icon3.PNG": "/react-task/static/media/icon3.bd52cea7d9e9cf730ece.PNG",
+    "static/media/icon2.PNG": "/react-task/static/media/icon2.ec66b1ad6370e30a3a3d.PNG",
+    "static/media/icon1.PNG": "/react-task/static/media/icon1.06685b733262e48357b0.PNG",
+    "static/media/icon4.PNG": "/react-task/static/media/icon4.f258461e6a9e51c57e6c.PNG",
+    "index.html": "/react-task/index.html",
+    "main.da26ed8c.css.map": "/react-task/static/css/main.da26ed8c.css.map",
+    "main.3c714d1a.js.map": "/react-task/static/js/main.3c714d1a.js.map",
+    "453.e52305e5.chunk.js.map": "/react-task/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da26ed8c.css",
+    "static/js/main.3c714d1a.js"
+  ]
+}
